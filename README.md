@@ -1,4 +1,4 @@
-# Cookbook Patterns (functional paradigm javascript/typescript)
+# Cookbook Паттернов программирования (functional paradigm javascript/typescript)
 
 ## Порождающие
 - Строитель (Builder)
@@ -14,6 +14,7 @@
 ## Поведенческие
 - Посредник (Intermediary, Controller, Mediator)
 
+# Cookbook Анти- Паттернов программирования (functional paradigm javascript/typescript)
 
 # Принципы программирования
 - KISS
@@ -21,3 +22,6 @@
 - DRY
 - BDUF
 - SOLID
+
+# Законы программирования
+- Закон Брукса - Добавление дополнительного человеческого ресурса к опаздывающему проекту задерживает его выход ещё больше.
