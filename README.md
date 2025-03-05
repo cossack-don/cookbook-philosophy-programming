@@ -1,4 +1,4 @@
-# CoockBook Patterns (functional paradigm javascript/typescript)
+# Cookbook Patterns (functional paradigm javascript/typescript)
 
 ## Порождающие
 - Строитель (Builder)
