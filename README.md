@@ -13,3 +13,11 @@
 
 ## Поведенческие
 - Посредник (Intermediary, Controller, Mediator)
+
+
+# Принципы программирования
+- KISS
+- YAGNI
+- DRY
+- BDUF
+- SOLID
