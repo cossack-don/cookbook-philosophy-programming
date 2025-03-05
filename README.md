@@ -15,6 +15,7 @@
 - Посредник (Intermediary, Controller, Mediator)
 
 # Cookbook Анти- Паттернов программирования (functional paradigm javascript/typescript)
+- 
 
 # Принципы программирования
 - KISS
