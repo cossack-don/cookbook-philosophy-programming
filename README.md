@@ -9,6 +9,7 @@
 8. Виды Архитектур
 9. Стандарты, git commit, style guide ect.
 10. Перенести на VitePress -> Versel
+11. Road Maps Frontend Senior Staff , Vue , React
 
 # Cookbook Паттернов программирования (functional paradigm javascript/typescript)
 
