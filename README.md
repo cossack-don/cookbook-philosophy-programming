@@ -1,15 +1,8 @@
 ##### Структура
-1. Паттерны в ФП парадигме и в ООП
-2. Анти-Паттерны
-3. Паттерны Архитектуры
-4. Принципы программирования
-5. Законы программирования
-6. Алгоритмы
-7. Структуры данных
-8. Виды Архитектур
-9. Стандарты, git commit, style guide ect.
-10. Перенести на VitePress -> Versel
-11. Road Maps Frontend Senior Staff , Vue , React
+
+1. Перенести на VitePress -> Versel
+2. Road Maps Frontend Senior Staff , Vue , React
+3. Список ТОП книг по программирования - философия
 
 # Cookbook Паттернов программирования (functional paradigm javascript/typescript)
 
