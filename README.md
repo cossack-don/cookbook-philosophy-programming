@@ -2,8 +2,6 @@
 
 ![alt text](https://github.com/cossack-don/cookbook-philosophy-programming/blob/main/screen_1.jpeg)
 
-## Оглавление
-
 ### Паттерны в ФП парадигме
 - Порождающие
   - Factory ✅
