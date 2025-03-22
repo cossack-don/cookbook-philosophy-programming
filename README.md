@@ -4,8 +4,30 @@
 
 ### Паттерны в ФП парадигме
 - Порождающие
+  - Factory Method
+  - Abstract Factory
+  - Builder
+  - Prototype
+  - Singleton
 - Структурные
+ - Adapter
+ - Bridge
+ - Decorator
+ - Composite
+ - Facade
+ - Flyweight
+ - Proxy
 - Поведенческие
+ - Visitor
+ - Template Method
+ - Chain of Command
+ - Command
+ - Iterator
+ - Mediator
+ - Memento
+ - Observer
+ - State
+ - Strategy
 
 ### Паттерны в ООП парадигме ❌
   
@@ -39,7 +61,7 @@
 ### Стандарты программирования ❌
 -
 
-### Зоны ответственности Frontend и Backend по реализации фичи
+### Зоны ответственности Frontend и Backend по реализации фичи ❌
 - 
 ###### Надо сделать
 
