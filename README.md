@@ -74,9 +74,9 @@
 - Clean architecture
 - Modular product architecture
 
-### Стандарты программирования ❌
-- [Git commit convention](https://www.conventionalcommits.org/ru/v1.0.0/)
-- [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+### Стандарты программирования
+- [Git commit convention](https://www.conventionalcommits.org/ru/v1.0.0/)  ✅
+- [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)  ✅
 
 ### Зоны ответственности Frontend и Backend по реализации фичи ❌
 - 
