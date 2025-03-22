@@ -4,30 +4,30 @@
 
 ### Паттерны в ФП парадигме
 - Порождающие
-  - Factory Method
-  - Abstract Factory
-  - Builder
-  - Prototype
+  - Factory ✅
+  - Abstract Factory ✅
+  - Builder ✅
+  - Prototype ✅
   - Singleton
 - Структурные
- - Adapter
- - Bridge
- - Decorator
- - Composite
- - Facade
- - Flyweight
- - Proxy
+  - Adapter ✅
+  - Bridge ✅
+  - Decorator ✅
+  - Composite ✅
+  - Facade ✅
+  - Flyweight
+  - Proxy
 - Поведенческие
- - Visitor
- - Template Method
- - Chain of Command
- - Command
- - Iterator
- - Mediator
- - Memento
- - Observer
- - State
- - Strategy
+  - Visitor
+  - Template Method
+  - Chain of Command
+  - Command
+  - Iterator
+  - Mediator
+  - Memento
+  - Observer ✅
+  - State ✅
+  - Strategy
 
 ### Паттерны в ООП парадигме ❌
   
