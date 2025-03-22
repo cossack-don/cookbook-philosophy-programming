@@ -56,7 +56,12 @@
 -
 
 ### Паттерны Архитектуры и виды ❌
--
+- MVC
+- MVP
+- MVVM
+- FSD
+- Clean architecture
+- Modular product architecture
 
 ### Стандарты программирования ❌
 -
