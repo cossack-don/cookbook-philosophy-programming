@@ -87,7 +87,7 @@
 ✅
 ❌
 
-1. Перенести на VitePress -> Versel
+1. Versel deploy
 2. Road Maps Frontend Senior Staff , Vue , React
 3. Список ТОП книг по программирования - философия
 
