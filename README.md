@@ -1,6 +1,4 @@
-# Cookbook Философии программирования
-
-![alt text](https://github.com/cossack-don/cookbook-philosophy-programming/blob/main/screen_1.jpeg)
+# Cookbook Рецептов программирования
 
 ### Паттерны в ФП парадигме
 - Порождающие
